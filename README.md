@@ -1,4 +1,4 @@
-## Hola 👋, Soy enrique Armenta, Desarrollador Web Mexicano. 🟩⬜🟥 
+## Hola 👋, Soy Enrique Armenta, Desarrollador Web Mexicano. 🟩⬜🟥 
 
 ![Visitor Count](https://profile-counter.glitch.me/Enagarlol/count.svg)
 
