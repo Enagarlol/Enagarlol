@@ -10,6 +10,7 @@ Me gusta la idea de construir software que ayude a mejorar la vida de las person
 
 <div >
 <img align="center" alt="Eng-Lang" height="180em" src="https://github-readme-stats.vercel.app/api?username=Enagarlol&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enagarlol&layout=compact&show_icons=true&theme=chartreuse-dark">
 
 </div>
 
