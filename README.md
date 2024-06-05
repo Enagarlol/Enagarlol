@@ -7,7 +7,6 @@
 
 <div >
 <img align="center" alt="Arm-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Enagarlol&show_icons=true&theme=chartreuse-dark">
-<img align="center" alt="Arm-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enagarlol&layout=compact&show_icons=true&theme=chartreuse-dark">
 
 </div>
 
