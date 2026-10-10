@@ -71,31 +71,6 @@ Soy **Ingeniero en Software** de Tapachula, Chiapas, con **4 años de experienci
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
-## 🚀 Proyectos destacados
-
-> La mayoría son repositorios privados de clientes o empresas. En mi [portafolio](https://enagarlol.github.io) hay una vista previa de cada uno: qué hace, qué hice yo y con qué.
-
-| Proyecto | Qué es | Stack |
-| --- | --- | --- |
-| **Mysis POS** | Punto de venta de escritorio multiempresa (multi-tenant) con facturación electrónica CFDI 4.0. Lo desarrollé desde cero. | C# 13 · .NET 9 · WinUI 3 · EF Core 9 · SQL Server |
-| **SACS Copilot** | Plataforma para el sector asegurador. Diseñé la arquitectura base y la seguridad con Keycloak, roles y permisos. | C# · .NET · Keycloak · gRPC |
-| **SACS para brókers** | Sistemas web de pólizas para brókers como Plasencia, Sicurika e IsureSacs. | ASP.NET · T-SQL · TypeScript · SCSS |
-| **Xiphias** | Punto de venta web con módulo de compras. Lideré su migración a versiones nuevas de .NET. | C# · ASP.NET · SQL Server · QuestPDF · EPPlus |
-| **PosLite** | Punto de venta ligero para una tienda de abarrotes, con base de datos local e instalador. | C# · .NET 9 · WinUI 3 · SQLite |
-| [**IIA-PROJECT**](https://github.com/Enagarlol/IIA-PROJECT) | API para una escuela de inglés: estudiantes, cursos, pagos, roles y horarios. | Node.js · Express · Prisma · PostgreSQL · JWT |
-| **Policard** | Credencial digital para la Universidad Politécnica de Tapachula (comunidad Mexicode). | Svelte · SvelteKit |
-| [**Mexic0de**](https://github.com/MexicodeInc2023/Mexic0de) | Sitio oficial de la comunidad de desarrollo Mexic0de. | Astro |
-
-## 💼 Experiencia
-
-| Empresa | Rol | Periodo |
-| --- | --- | --- |
-| **SAO Insurtech** | Desarrollador .NET: SACS Copilot, brókers de seguros y Procrea | 2025 – 2026 |
-| **Stac Los Cabos** | Desarrollador .NET: Mysis POS y Xiphias | 2024 – 2026 |
-| **DSoft Solution** | Desarrollador Backend Node.js: IIA-PROJECT | 2023 |
-
-🎓 **Ingeniería en Software**, Universidad Politécnica de Tapachula (2023).
-
 ## 📊 Estadísticas
 
 <p align="center">
